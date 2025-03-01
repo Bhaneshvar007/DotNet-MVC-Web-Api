@@ -1,0 +1,6 @@
+@WebApiFor_Join_HostAddress = http://localhost:5288
+
+GET {{WebApiFor_Join_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

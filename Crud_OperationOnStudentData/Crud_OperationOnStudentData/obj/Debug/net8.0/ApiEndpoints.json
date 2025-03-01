@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Crud_OperationOnStudentData.Controllers.StudentController",
+    "Method": "GetStudents",
+    "RelativePath": "api/Student/GetStudent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Crud_OperationOnStudentData.Models.Student, Crud_OperationOnStudentData, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

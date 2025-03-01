@@ -1,0 +1,72 @@
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\complete all language tutorial\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNet_Core\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\DotNet_Core\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll

@@ -1,0 +1,157 @@
+﻿@model User_Registration_Mvc.Models.User
+
+@{
+    ViewData["Title"] = "Update User";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update User</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 50px auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #007bff;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            font-weight: bold;
+            color: #333;
+        }
+
+        .btn-primary {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border-radius: 5px;
+            background-color: #007bff;
+            border: none;
+            cursor: pointer;
+            transition: background 0.3s ease-in-out;
+        }
+
+            .btn-primary:hover {
+                background-color: #0056b3;
+            }
+
+        .back-link {
+            display: block;
+            text-align: center;
+            margin-top: 15px;
+        }
+
+            .back-link a {
+                text-decoration: none;
+                color: #007bff;
+                font-size: 16px;
+                transition: color 0.3s ease-in-out;
+            }
+
+                .back-link a:hover {
+                    color: #0056b3;
+                }
+
+        .text-danger {
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Update User</h1>
+
+        <form asp-action="UpdateUser">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="U_id"></label>
+                <input asp-for="U_id" class="form-control" />
+                <span asp-validation-for="U_id" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="firstName"></label>
+                <input asp-for="firstName" class="form-control" />
+                <span asp-validation-for="firstName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="lastName"></label>
+                <input asp-for="lastName" class="form-control" />
+                <span asp-validation-for="lastName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="email"></label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="phoneNum"></label>
+                <input asp-for="phoneNum" class="form-control" />
+                <span asp-validation-for="phoneNum" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="country"></label>
+                <input asp-for="country" class="form-control" />
+                <span asp-validation-for="country" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="state"></label>
+                <input asp-for="state" class="form-control" />
+                <span asp-validation-for="state" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="area"></label>
+                <input asp-for="area" class="form-control" />
+                <span asp-validation-for="area" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="pincode"></label>
+                <input asp-for="pincode" class="form-control" />
+                <span asp-validation-for="pincode" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+
+        <div class="back-link">
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </div>
+
+    
+
+</body>
+</html>

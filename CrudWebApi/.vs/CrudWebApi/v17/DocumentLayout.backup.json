@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\CrudWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|d:\\dotnet\\crudwebapi\\crudwebapi\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|solutionrelative:crudwebapi\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|d:\\dotnet\\crudwebapi\\crudwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|solutionrelative:crudwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|d:\\dotnet\\crudwebapi\\crudwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|solutionrelative:crudwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|d:\\dotnet\\crudwebapi\\crudwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|solutionrelative:crudwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|d:\\dotnet\\crudwebapi\\crudwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|solutionrelative:crudwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|d:\\dotnet\\crudwebapi\\crudwebapi\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|solutionrelative:crudwebapi\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|d:\\dotnet\\crudwebapi\\crudwebapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3185DC4-0BB3-4B1C-A127-E0B16AAB6159}|CrudWebApi\\CrudWebApi.csproj|solutionrelative:crudwebapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CrudWebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "CrudWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T08:32:51.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudWebApi\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\appsettings.json",
+              "RelativeToolTip": "CrudWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T08:32:34.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CrudWebApi\\Program.cs",
+              "ToolTip": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Program.cs",
+              "RelativeToolTip": "CrudWebApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:32:13.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Interface\\IEmployee.cs",
+              "RelativeDocumentMoniker": "CrudWebApi\\Interface\\IEmployee.cs",
+              "ToolTip": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Interface\\IEmployee.cs",
+              "RelativeToolTip": "CrudWebApi\\Interface\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:38:42.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CrudWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CrudWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:26:32.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "CrudWebApi\\Services\\EmployeeServices.cs",
+              "ToolTip": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "CrudWebApi\\Services\\EmployeeServices.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwMsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T04:21:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "CrudWebApi\\Model\\Employee.cs",
+              "ToolTip": "D:\\DotNet\\CrudWebApi\\CrudWebApi\\Model\\Employee.cs",
+              "RelativeToolTip": "CrudWebApi\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:33:31.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

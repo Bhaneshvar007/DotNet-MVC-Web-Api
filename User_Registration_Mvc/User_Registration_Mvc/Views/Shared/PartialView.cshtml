@@ -1,0 +1,13 @@
+﻿<div>
+    <h1>I am partial view</h1>
+</div>
+
+@{
+    if(Model!= null){
+        foreach (var item in Model)
+        {
+            <h2>@item</h2>
+        }
+    }
+
+}

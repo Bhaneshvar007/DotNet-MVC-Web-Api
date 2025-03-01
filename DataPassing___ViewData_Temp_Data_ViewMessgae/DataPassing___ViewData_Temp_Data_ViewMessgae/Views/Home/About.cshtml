@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About</h1>
+@{
+	if (TempData["array"] != null)
+	{
+		foreach (var itm in (string[])TempData["array"])
+		{
+			@itm
+			<br />
+		}
+	}
+	else
+	{
+		<h1>Data not found !!</h1>
+	}
+}
+

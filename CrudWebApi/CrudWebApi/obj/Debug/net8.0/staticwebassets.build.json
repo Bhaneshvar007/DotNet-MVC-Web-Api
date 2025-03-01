@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ds/7IOuhFcODscoxYs6OPBfUz6FEeoQ03Vz5ONTpmoM=",
+  "Source": "CrudWebApi",
+  "BasePath": "_content/CrudWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

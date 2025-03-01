@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+<div class="text-center">
+    @* <h1>View Data</h1> *@
+    @* <h2> @ViewData["Name"]</h2> *@
+
+    @* <h3>Here are the array of data</h3> *@
+    @* @{ *@
+    @*     foreach(var item in (string[])ViewData["Array"]){ *@
+    @*         @item <br/> *@
+    @*     } *@
+    @* }  *@
+
+    @* <h3>Here are the List of data</h3> *@
+
+    @* @{ *@
+      
+    @*     foreach(var item in (List<string>)ViewData["List"]){ *@
+    @*       @item <br/> *@
+    @*     } *@
+    @* } *@
+
+
+
+
+    @* <h1>View bag</h1 *@
+        @* syntex of viewbad -> viewBag.property name = "value name" *@
+
+        @* <h1>@ViewBag.name</h1> *@
+        @* <h1>@ViewBag.age</h1> *@
+
+        @* @{ *@
+        @*     foreach(var arr in ViewBag.array){ *@
+        @*         @arr <br/> *@
+        @*     } *@
+        @* }  *@
+       
+        @* @{ *@
+        @*     foreach(var list in ViewBag.list){ *@
+        @*         @list <br/> *@
+        @*     } *@
+        @* } *@
+
+
+
+        @* <h1>@ViewBag.item2</h1> *@
+        @* <h1>@ViewData["item1"]</h1> *@
+
+
+
+
+        <h1>Temp Data</h1>
+        @TempData["Name"];
+        <br/>
+        @{
+            foreach(var itm in (string[])TempData["array"]){
+                @itm <br/>
+            }
+        }
+</div>

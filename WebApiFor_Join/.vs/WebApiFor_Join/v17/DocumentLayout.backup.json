@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\WebApiFor_Join\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|d:\\dotnet\\webapifor_join\\webapifor_join\\controllers\\joins_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|solutionrelative:webapifor_join\\controllers\\joins_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|d:\\dotnet\\webapifor_join\\webapifor_join\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|solutionrelative:webapifor_join\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|d:\\dotnet\\webapifor_join\\webapifor_join\\models\\cetegorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|solutionrelative:webapifor_join\\models\\cetegorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|d:\\dotnet\\webapifor_join\\webapifor_join\\services\\joinsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|solutionrelative:webapifor_join\\services\\joinsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|d:\\dotnet\\webapifor_join\\webapifor_join\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|solutionrelative:webapifor_join\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|d:\\dotnet\\webapifor_join\\webapifor_join\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|solutionrelative:webapifor_join\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|d:\\dotnet\\webapifor_join\\webapifor_join\\interface\\icetegoryproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|solutionrelative:webapifor_join\\interface\\icetegoryproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|d:\\dotnet\\webapifor_join\\webapifor_join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF0EFFA-97C8-4AE6-9AF0-5FE14680F788}|WebApiFor_Join\\WebApiFor_Join.csproj|solutionrelative:webapifor_join\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApiFor_Join\\appsettings.Development.json",
+              "ToolTip": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\appsettings.Development.json",
+              "RelativeToolTip": "WebApiFor_Join\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T05:14:44.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiFor_Join\\Program.cs",
+              "ToolTip": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Program.cs",
+              "RelativeToolTip": "WebApiFor_Join\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:11:15.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiFor_Join\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\appsettings.json",
+              "RelativeToolTip": "WebApiFor_Join\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T04:50:12.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JoinsServices.cs",
+              "DocumentMoniker": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Services\\JoinsServices.cs",
+              "RelativeDocumentMoniker": "WebApiFor_Join\\Services\\JoinsServices.cs",
+              "ToolTip": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Services\\JoinsServices.cs",
+              "RelativeToolTip": "WebApiFor_Join\\Services\\JoinsServices.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:47:12.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "WebApiFor_Join\\Models\\Products.cs",
+              "ToolTip": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Models\\Products.cs",
+              "RelativeToolTip": "WebApiFor_Join\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:18:48.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cetegorys.cs",
+              "DocumentMoniker": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Models\\Cetegorys.cs",
+              "RelativeDocumentMoniker": "WebApiFor_Join\\Models\\Cetegorys.cs",
+              "ToolTip": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Models\\Cetegorys.cs",
+              "RelativeToolTip": "WebApiFor_Join\\Models\\Cetegorys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:18:32.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICetegoryProducts.cs",
+              "DocumentMoniker": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Interface\\ICetegoryProducts.cs",
+              "RelativeDocumentMoniker": "WebApiFor_Join\\Interface\\ICetegoryProducts.cs",
+              "ToolTip": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Interface\\ICetegoryProducts.cs",
+              "RelativeToolTip": "WebApiFor_Join\\Interface\\ICetegoryProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:11:09.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Joins_Controller.cs",
+              "DocumentMoniker": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Controllers\\Joins_Controller.cs",
+              "RelativeDocumentMoniker": "WebApiFor_Join\\Controllers\\Joins_Controller.cs",
+              "ToolTip": "D:\\DotNet\\WebApiFor_Join\\WebApiFor_Join\\Controllers\\Joins_Controller.cs",
+              "RelativeToolTip": "WebApiFor_Join\\Controllers\\Joins_Controller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:08:01.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

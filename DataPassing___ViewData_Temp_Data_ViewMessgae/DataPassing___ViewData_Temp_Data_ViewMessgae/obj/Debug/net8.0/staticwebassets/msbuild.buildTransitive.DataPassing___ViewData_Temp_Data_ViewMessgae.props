@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DataPassing___ViewData_Temp_Data_ViewMessgae.props" />
+</Project>

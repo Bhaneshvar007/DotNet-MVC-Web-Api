@@ -1,0 +1,89 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "WebApiFor_Join",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Joins_/get": {
+      "get": {
+        "tags": [
+          "Joins_"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Products"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Products"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Products"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Cetegorys": {
+        "type": "object",
+        "properties": {
+          "cetegoryId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "cetegoryName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Products": {
+        "type": "object",
+        "properties": {
+          "productId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "productName": {
+            "type": "string",
+            "nullable": true
+          },
+          "productPrice": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "cetegorys": {
+            "$ref": "#/components/schemas/Cetegorys"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

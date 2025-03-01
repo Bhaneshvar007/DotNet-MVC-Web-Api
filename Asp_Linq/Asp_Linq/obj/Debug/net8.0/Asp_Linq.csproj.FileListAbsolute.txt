@@ -1,0 +1,17 @@
+D:\DotNet\Asp_Linq\Asp_Linq\bin\Debug\net8.0\Asp_Linq.exe
+D:\DotNet\Asp_Linq\Asp_Linq\bin\Debug\net8.0\Asp_Linq.deps.json
+D:\DotNet\Asp_Linq\Asp_Linq\bin\Debug\net8.0\Asp_Linq.runtimeconfig.json
+D:\DotNet\Asp_Linq\Asp_Linq\bin\Debug\net8.0\Asp_Linq.dll
+D:\DotNet\Asp_Linq\Asp_Linq\bin\Debug\net8.0\Asp_Linq.pdb
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\Asp_Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\Asp_Linq.AssemblyInfoInputs.cache
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\Asp_Linq.AssemblyInfo.cs
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\Asp_Linq.csproj.CoreCompileInputs.cache
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\Asp_Linq.dll
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\refint\Asp_Linq.dll
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\Asp_Linq.pdb
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\Asp_Linq.genruntimeconfig.cache
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\ref\Asp_Linq.dll
+D:\DotNet\Asp_Linq\Asp_Linq\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\Asp_Linq.csproj.AssemblyReference.cache
+D:\DotNet\Asp_Linq\Asp_Linq\obj\Debug\net8.0\Asp_Linq.csproj.Up2Date
